@@ -1,3 +1,4 @@
 {
-    "taipyStudio.config.mainPythonFile": "etl_pandas.py"
+    "taipyStudio.config.mainPythonFile": "etl_pandas.py",
+    "taipyStudio.gUI.elementsFilePaths": []
 }

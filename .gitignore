@@ -6,7 +6,10 @@
 # Arquivo que não irá subir
 data/measurements.txt
 /etl_python_not_working.py
-/one_billion_row.py
+src/one_billion_row.py
+poetry.toml
+etl.pyload.py
+compare.py
 
 # User-specific files
 *.rsuser
